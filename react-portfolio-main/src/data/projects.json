@@ -1,6 +1,6 @@
 [
   {
-    "title": "Project 1",
+    "title": "LUMIFACE",
     "imageSrc": "projects/lumiface.png",
     "description": "Lumiface is an intelligent attendance management system that leverages facial recognition technology to automate and secure the process of student or employee attendance. Built using Python's Tkinter for GUI, OpenCV for real-time face detection, and face_recognition libraries for facial identification, Lumiface aims to reduce manual errors and save administrative time.",
     "skills": ["GUI: Tkinter","Language: Python", "Libraries: OpenCV", "Algorithms: Haar Cascade (detection), LBPH (recognition)"],
