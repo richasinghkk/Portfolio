@@ -4,23 +4,15 @@
     "imageSrc": "projects/lumiface.png",
     "description": "Lumiface is an intelligent attendance management system that leverages facial recognition technology to automate and secure the process of student or employee attendance. Built using Python's Tkinter for GUI, OpenCV for real-time face detection, and face_recognition libraries for facial identification, Lumiface aims to reduce manual errors and save administrative time.",
     "skills": ["GUI: Tkinter","Language: Python", "Libraries: OpenCV", "Algorithms: Haar Cascade (detection), LBPH (recognition)"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    
+    "source": "https://github.com/kazuha2004/FACE_RECOGNITION_ATTENDANCE_SYSTEM"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Market Mingle",
+    "imageSrc": "projects/marketmingle.png",
+    "description": "An elegant and responsive e-commerce website built to showcase modern frontend design, product listing, and interactive UI features.",
+    "skills": ["HTML", "CSS", "Bootstrap", "PHP", "JavaScript"],
+    "source": "https://github.com/sandeepsv8055/e-commerce"
   }
+ 
 ]
